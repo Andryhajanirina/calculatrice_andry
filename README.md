@@ -23,4 +23,4 @@
 
 **_exercices_de_chauffe.js_** : C'est comme son nom l'indique, c'est là que se trouve les fonctions (my_max, reverse, vowel_count)
 
-Voici le lien en production pour le projet : [lien en production pour le calculatrice en JS](calculatrice-andry.surge.sh)
+Voici le lien en production pour le projet : [lien en production pour le calculatrice en JS](http://calculatrice-andry.surge.sh/)
