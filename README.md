@@ -17,13 +17,11 @@
  - README.md
  - index.html
 
-<figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="https://waher.se/Graphics/Emoji1/png/128x128/1f1e8-1f1f1.png">
     <source src="https://waher.se/Video/small.mp4" type="video/mp4">
     <source src="https://waher.se/Video/small.ogg" type="video/ogg">
     <source src="https://waher.se/Video/small.webm" type="video/webm">
   </video>
-</figure>
 
 **_index.js_** : C'est pour la calculatrice (index.html)
 
