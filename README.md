@@ -16,7 +16,11 @@
  - stylesheets
  - README.md
  - index.html
- <iframe width="420" height="315" src="http://www.youtube.com/embed/QH2-TGUlwu4" frameborder="0" allowfullscreen></iframe>
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/1ux0yeJpJooWgq1_UROeAbbM3nNYFiF_iU26P3msPdzU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YP6FFvsekso/0.jpg)](https://www.youtube.com/watch?v=YP6FFvsekso)
 
 **_index.js_** : C'est pour la calculatrice (index.html)
