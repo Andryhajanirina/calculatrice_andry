@@ -17,7 +17,8 @@
  - README.md
  - index.html
  
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/EixD8OUMBX65Jy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+{::options parse_block_html="true" /}
+
 
 **_index.js_** : C'est pour la calculatrice (index.html)
 
