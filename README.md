@@ -17,13 +17,7 @@
  - README.md
  - index.html
  
-{::options parse_block_html="false" /}
-
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/1ux0yeJpJooWgq1_UROeAbbM3nNYFiF_iU26P3msPdzU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YP6FFvsekso/0.jpg)](https://www.youtube.com/watch?v=YP6FFvsekso)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/EixD8OUMBX65Jy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 **_index.js_** : C'est pour la calculatrice (index.html)
 
