@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 # calculatrice_andry
 # CALCULATRICE en JavaScript
 ### Auteur : [@Andry](https://github.com/Andryhajanirina)
@@ -17,11 +19,7 @@
  - README.md
  - index.html
 
-  <video controls="true" allowfullscreen="true" poster="https://waher.se/Graphics/Emoji1/png/128x128/1f1e8-1f1f1.png">
-    <source src="https://waher.se/Video/small.mp4" type="video/mp4">
-    <source src="https://waher.se/Video/small.ogg" type="video/ogg">
-    <source src="https://waher.se/Video/small.webm" type="video/webm">
-  </video>
+<iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
 
 **_index.js_** : C'est pour la calculatrice (index.html)
 
