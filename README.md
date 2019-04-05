@@ -17,7 +17,7 @@
  - README.md
  - index.html
  
- [![](http://cdn-uploads.gameblog.fr/images/actu/full/82441_gb_news.jpg?ver=1554132836)](https://www.youtube.com/watch?v=YP6FFvsekso)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YP6FFvsekso/0.jpg)](https://www.youtube.com/watch?v=YP6FFvsekso)
 
 **_index.js_** : C'est pour la calculatrice (index.html)
 
