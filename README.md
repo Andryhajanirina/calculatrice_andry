@@ -19,12 +19,6 @@
  - README.md
  - index.html
 
-![Sample video](https://waher.se/Video/small.webm 560 320)
-	(https://waher.se/Video/small.ogv 560 320)
-	(https://waher.se/Video/small.mp4 560 320)
-	(https://waher.se/Video/small.3gp 352 288)
-	(https://waher.se/Video/small.flv 320 240)
-
 **_index.js_** : C'est pour la calculatrice (index.html)
 
 **_calculatrice.js_** : C'est là que j'ai mis les fonctions : (add, substract, multiply, divide, clear)
