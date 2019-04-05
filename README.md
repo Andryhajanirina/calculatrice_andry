@@ -16,6 +16,8 @@
  - stylesheets
  - README.md
  - index.html
+ 
+ [![](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=YP6FFvsekso)
 
 **_index.js_** : C'est pour la calculatrice (index.html)
 
