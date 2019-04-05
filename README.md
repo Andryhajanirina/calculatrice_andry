@@ -16,6 +16,7 @@
  - stylesheets
  - README.md
  - index.html
+{::options parse_block_html="false" /}
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/1ux0yeJpJooWgq1_UROeAbbM3nNYFiF_iU26P3msPdzU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
