@@ -19,7 +19,11 @@
  - README.md
  - index.html
 
-<iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
+![Sample video](https://waher.se/Video/small.webm 560 320)
+	(https://waher.se/Video/small.ogv 560 320)
+	(https://waher.se/Video/small.mp4 560 320)
+	(https://waher.se/Video/small.3gp 352 288)
+	(https://waher.se/Video/small.flv 320 240)
 
 **_index.js_** : C'est pour la calculatrice (index.html)
 
